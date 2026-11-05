@@ -1,0 +1,19 @@
+# local / agent notes
+scratchpad.md
+UJ_PROJEKT_PROMPT.md
+.serena/
+.cursor/
+
+# local tooling and store assets
+scripts/
+store/
+
+# build output
+*.zip
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
